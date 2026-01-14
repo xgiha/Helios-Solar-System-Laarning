@@ -1,0 +1,5 @@
+{
+  "name": "Helios AI Explorer",
+  "description": "An interactive, futuristic 3D solar system visualization powered by React Three Fiber and Google Gemini AI. Explore planets, view real-time orbits, and get AI-generated insights about our celestial neighbors.",
+  "requestFramePermissions": []
+}
